@@ -136,4 +136,7 @@ header {
   .nav {
     display: block;
   }
+  .nav2 {
+    display: none;
+  }
 }
